@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/Mohinidhakad)
+[![MasterHead])](https://github.com/Mohinidhakad)
 <h1 align="center">Hi 👋, I'm Mohini Dhakad</h1>
 <h3 align="center">A Passionate web developer from India</h3>
 <img align="right"alt"coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
