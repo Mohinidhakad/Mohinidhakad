@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohinidhakad&label=Profile%20views&color=0e75b6&style=flat" alt="mohinidhakad" /> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently  **Looking for an opportunity**
 
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **mohinidhakad35@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vsUi-_1Yq8EPbh19yEaXlkUKFInkjM0S/view?usp=sharing](https://drive.google.com/file/d/1vsUi-_1Yq8EPbh19yEaXlkUKFInkjM0S/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19rsacgFQVB0GSNO0YPu42WC_knEdqgMR/view?usp=drive_link](https://drive.google.com/file/d/1vsUi-_1Yq8EPbh19yEaXlkUKFInkjM0S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
